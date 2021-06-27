@@ -1,0 +1,4 @@
+1.grab all de pixels to de array
+	-bug with asarray fixed with de array FUNCTION
+2.
+3.

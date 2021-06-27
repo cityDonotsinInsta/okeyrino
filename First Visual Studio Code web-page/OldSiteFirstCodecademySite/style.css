@@ -1,0 +1,40 @@
+h1.datClass
+{
+    color:yellow;
+}
+
+body
+{
+    color:blue;
+    background: rgba(0,0,0,.3);
+    margin: 100 20 200;
+}
+
+.newPic
+{
+    margin:0 auto;
+    /*float:right;*/
+    display:inline-block;
+    overflow:scroll;
+}
+
+.yesNo
+{
+    /*float:right;*/
+    list-style:square;
+    margin:10, 105, 35, 45;
+    width:500px;
+    display:inline-block;
+    /*Yes styles are awesome
+    background-color:rgba(0,0,0,0.7);*/
+}
+
+*{
+    font-family:serif;
+    box-sizing:border-box;
+}
+
+[href]
+{
+    color:purple;
+}
